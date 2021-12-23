@@ -5,7 +5,7 @@ import {VscGithubAlt} from 'react-icons/vsc'
 export default function Footer() {
   return (
     <div>
-      <h1>COVID-19INDIA</h1>
+      <h1>COVID19INDIA</h1>
       <p>we stand with everyone fighting on the front lines</p>
       <p>
         <VscGithubAlt testid="githubIcon" />
