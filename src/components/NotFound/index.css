@@ -1,0 +1,24 @@
+.not-found-component {
+  background-color: #161625;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.not-found {
+  font-size: 32px;
+  color: #ffffff;
+}
+.not-found-solution {
+  max-width: 400px;
+  color: #94a3b8;
+  text-align: center;
+}
+.not-found-button {
+  height: 30px;
+  width: 80px;
+  border-width: 0px;
+  border-radius: 5px;
+}
